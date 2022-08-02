@@ -42,8 +42,8 @@ public class Program
 						j++;
 						}
 					}
-            	}
-			}
+            		}
+		}
         }
 	}
 	public static void Main()
