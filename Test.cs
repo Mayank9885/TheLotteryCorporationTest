@@ -38,9 +38,7 @@ public class Program
 						Environment.Exit(0);
 						}
 					} else {
-						if (j < noofgames-2){
-						j++;
-						}
+						break;
 					}
             		}
 		}
