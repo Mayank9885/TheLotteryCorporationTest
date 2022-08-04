@@ -34,7 +34,7 @@ public class Program
                 	if (array2D[i,k] == array2D[j,k])
 					{
 						if (k == 6){
-						Console.WriteLine("OOPS looks like 2 tickets have the same number, please run again");
+						Console.WriteLine("OOPS looks like 2 tickets have the same number, running again");
 						quickpick(noofgames);
 						}
 					} else {
